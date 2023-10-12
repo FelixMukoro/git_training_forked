@@ -2,4 +2,7 @@
 
 SELECT TOP 100 *
 FROM db.my_table
-WHERE Year = 2018;
+WHERE Year = 2018
+AND City = "london";
+
+
